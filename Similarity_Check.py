@@ -236,7 +236,7 @@ x = tf.keras.layers.AveragePooling2D(pool_size=(2, 2))(x)
 x = tf.keras.layers.Flatten()(x)
 
 x = tf.keras.layers.BatchNormalization()(x)
-x = tf.keras.layers.Dense(10, activation="tanh")(x)
+x = tf.keras.layers.Dense(5, activation="tanh")(x)
 embedding_network = tf.keras.Model(input, x)
 
 

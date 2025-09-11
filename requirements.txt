@@ -2,4 +2,3 @@ tensorflow
 matplotlib
 scikit-learn
 pillow
-comet-ml

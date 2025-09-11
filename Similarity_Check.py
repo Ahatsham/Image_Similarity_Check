@@ -112,7 +112,7 @@ def make_pairs(x_o, y_o, x_c, y_c):
     labels = []
 
     for idx1 in range(len(x_o)):
-        # add a matching example
+        # add matching example
         x1 = x_o[idx1]
         label1 = y_o[idx1]
         idx2 = random.choice(digit_indices[label1])

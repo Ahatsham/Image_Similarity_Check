@@ -19,7 +19,7 @@ A dual-branch Siamese network using a shared ConvNet. Trained using **Contrastiv
 - Batch Size: 32
 
 ## 📊 Results
-Include accuracy and contrastive loss plots.
+Include accuracy and contrastive loss plot.
 
 ## 🚀 Run It
 ```bash

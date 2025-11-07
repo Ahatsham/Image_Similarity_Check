@@ -1,4 +1,4 @@
-# Siamese Network on Stylized Flowers
+# Siamese Network on Stylized Flowers.
 
 This project implements a **Siamese Neural Network** using TensorFlow to learn similarity between original and stylized (e.g., Cezanne-style) flower images. Trained with **contrastive loss**, the model distinguishes between matching and non-matching class pairs across different visual domains. Includes training, evaluation, and helper utilities—ideal for research in **domain adaptation** and metric learning.
 

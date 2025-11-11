@@ -4,7 +4,7 @@ This project implements a **Siamese Neural Network** using TensorFlow to learn s
 
 ## 🌸 Datasets
 - **Original Domain**: `/data/original`
-- **Stylized Domain**: `/data/stylized`
+- **Stylized Domain**: /data/stylized
 
 Each domain has:
 - 5 categories (flowers)

@@ -16,7 +16,7 @@ A dual-branch Siamese network using a shared ConvNet. Trained using **Contrastiv
 ## 🏋️ Training
 - Optimizer: RMSprop
 - Epochs: 50
-- Batch Size: 32
+- Batch Size: 16
 
 ## 📊 Results
 Include accuracy and contrastive loss plot.

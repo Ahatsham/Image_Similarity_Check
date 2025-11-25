@@ -21,7 +21,7 @@ A dual-branch Siamese network using a shared ConvNet. Trained using **Contrastiv
 ## 📊 Results
 Include accuracy and contrastive loss plot.
 
-## 🚀 Run It
+# 🚀 Run It
 ```bash
 python train.py
 ```
